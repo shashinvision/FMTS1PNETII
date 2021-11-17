@@ -94,7 +94,7 @@ Partial Class Form1
         Me.Label61 = New System.Windows.Forms.Label()
         Me.Label62 = New System.Windows.Forms.Label()
         Me.Label63 = New System.Windows.Forms.Label()
-        Me.Label64 = New System.Windows.Forms.Label()
+        Me.visitaLabelP5 = New System.Windows.Forms.Label()
         Me.Label65 = New System.Windows.Forms.Label()
         Me.Label66 = New System.Windows.Forms.Label()
         Me.GroupBox5 = New System.Windows.Forms.GroupBox()
@@ -740,7 +740,7 @@ Partial Class Form1
         Me.GroupBox6.Controls.Add(Me.Label61)
         Me.GroupBox6.Controls.Add(Me.Label62)
         Me.GroupBox6.Controls.Add(Me.Label63)
-        Me.GroupBox6.Controls.Add(Me.Label64)
+        Me.GroupBox6.Controls.Add(Me.visitaLabelP5)
         Me.GroupBox6.Controls.Add(Me.Label65)
         Me.GroupBox6.Controls.Add(Me.Label66)
         Me.GroupBox6.Cursor = System.Windows.Forms.Cursors.Default
@@ -945,14 +945,14 @@ Partial Class Form1
         Me.Label63.TabIndex = 4
         Me.Label63.Text = "New York Knicks"
         '
-        'Label64
+        'visitaLabelP5
         '
-        Me.Label64.AutoSize = True
-        Me.Label64.Location = New System.Drawing.Point(151, 19)
-        Me.Label64.Name = "Label64"
-        Me.Label64.Size = New System.Drawing.Size(40, 15)
-        Me.Label64.TabIndex = 3
-        Me.Label64.Text = "VSITA"
+        Me.visitaLabelP5.AutoSize = True
+        Me.visitaLabelP5.Location = New System.Drawing.Point(151, 19)
+        Me.visitaLabelP5.Name = "visitaLabelP5"
+        Me.visitaLabelP5.Size = New System.Drawing.Size(40, 15)
+        Me.visitaLabelP5.TabIndex = 3
+        Me.visitaLabelP5.Text = "VSITA"
         '
         'Label65
         '
@@ -2001,7 +2001,7 @@ Partial Class Form1
     Friend WithEvents Label61 As Label
     Friend WithEvents Label62 As Label
     Friend WithEvents Label63 As Label
-    Friend WithEvents Label64 As Label
+    Friend WithEvents visitaLabelP5 As Label
     Friend WithEvents Label65 As Label
     Friend WithEvents Label66 As Label
     Friend WithEvents GroupBox5 As GroupBox

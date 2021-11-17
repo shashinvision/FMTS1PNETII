@@ -2,6 +2,31 @@
 
     Dim chicagoTeam, newyorkTeam, partido1, partido2, partido3, partido4, partido5, partido6, partido7, triplesChicago, triplesNewYork As Integer
 
+    Private Sub Cambio1ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Cambio1ToolStripMenuItem.Click
+        visitaLabelP5.Text = "Cambio 1"
+
+    End Sub
+    Private Sub Cambio2ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Cambio1ToolStripMenuItem.Click
+        visitaLabelP5.Text = "Cambio 2"
+
+    End Sub
+
+    Private Sub Cambio3ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Cambio1ToolStripMenuItem.Click
+        visitaLabelP5.Text = "Cambio 3"
+
+    End Sub
+
+    Private Sub Cambio4ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Cambio1ToolStripMenuItem.Click
+        visitaLabelP5.Text = "Cambio 4"
+
+    End Sub
+
+    Private Sub Cambio5ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Cambio1ToolStripMenuItem.Click
+        visitaLabelP5.Text = "Cambio 5"
+
+    End Sub
+
+
     Private Sub EquipoConMásTriplesToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles EquipoConMásTriplesToolStripMenuItem.Click
         triplesChicago = tiroTripleChicagoP1.Value + tiroTripleChicagoP2.Value + tiroTripleChicagoP3.Value + tiroTripleChicagoP4.Value + tiroTripleChicagoP5.Value + tiroTripleChicagoP6.Value + tiroTripleChicagoP7.Value
         triplesNewYork = tiroTripleNewYorkP1.Value + tiroTripleNewYorkP2.Value + tiroTripleNewYorkP3.Value + tiroTripleNewYorkP4.Value + tiroTripleNewYorkP5.Value + tiroTripleNewYorkP6.Value + tiroTripleNewYorkP7.Value
