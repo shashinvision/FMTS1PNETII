@@ -6,22 +6,22 @@
         visitaLabelP5.Text = "Cambio 1"
 
     End Sub
-    Private Sub Cambio2ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Cambio1ToolStripMenuItem.Click
+    Private Sub Cambio2ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Cambio2ToolStripMenuItem.Click
         visitaLabelP5.Text = "Cambio 2"
 
     End Sub
 
-    Private Sub Cambio3ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Cambio1ToolStripMenuItem.Click
+    Private Sub Cambio3ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Cambio3ToolStripMenuItem.Click
         visitaLabelP5.Text = "Cambio 3"
 
     End Sub
 
-    Private Sub Cambio4ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Cambio1ToolStripMenuItem.Click
+    Private Sub Cambio4ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Cambio4ToolStripMenuItem.Click
         visitaLabelP5.Text = "Cambio 4"
 
     End Sub
 
-    Private Sub Cambio5ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Cambio1ToolStripMenuItem.Click
+    Private Sub Cambio5ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Cambio5ToolStripMenuItem.Click
         visitaLabelP5.Text = "Cambio 5"
 
     End Sub

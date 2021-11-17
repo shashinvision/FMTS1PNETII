@@ -756,36 +756,36 @@ Partial Class Form1
         '
         Me.ContextMenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Cambio1ToolStripMenuItem, Me.Cambio2ToolStripMenuItem, Me.Cambio3ToolStripMenuItem, Me.Cambio4ToolStripMenuItem, Me.Cambio5ToolStripMenuItem})
         Me.ContextMenuStrip1.Name = "ContextMenuStrip1"
-        Me.ContextMenuStrip1.Size = New System.Drawing.Size(126, 114)
+        Me.ContextMenuStrip1.Size = New System.Drawing.Size(181, 136)
         '
         'Cambio1ToolStripMenuItem
         '
         Me.Cambio1ToolStripMenuItem.Name = "Cambio1ToolStripMenuItem"
-        Me.Cambio1ToolStripMenuItem.Size = New System.Drawing.Size(125, 22)
+        Me.Cambio1ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.Cambio1ToolStripMenuItem.Text = "Cambio 1"
         '
         'Cambio2ToolStripMenuItem
         '
         Me.Cambio2ToolStripMenuItem.Name = "Cambio2ToolStripMenuItem"
-        Me.Cambio2ToolStripMenuItem.Size = New System.Drawing.Size(125, 22)
+        Me.Cambio2ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.Cambio2ToolStripMenuItem.Text = "Cambio 2"
         '
         'Cambio3ToolStripMenuItem
         '
         Me.Cambio3ToolStripMenuItem.Name = "Cambio3ToolStripMenuItem"
-        Me.Cambio3ToolStripMenuItem.Size = New System.Drawing.Size(125, 22)
+        Me.Cambio3ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.Cambio3ToolStripMenuItem.Text = "Cambio 3"
         '
         'Cambio4ToolStripMenuItem
         '
         Me.Cambio4ToolStripMenuItem.Name = "Cambio4ToolStripMenuItem"
-        Me.Cambio4ToolStripMenuItem.Size = New System.Drawing.Size(125, 22)
+        Me.Cambio4ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.Cambio4ToolStripMenuItem.Text = "Cambio 4"
         '
         'Cambio5ToolStripMenuItem
         '
         Me.Cambio5ToolStripMenuItem.Name = "Cambio5ToolStripMenuItem"
-        Me.Cambio5ToolStripMenuItem.Size = New System.Drawing.Size(125, 22)
+        Me.Cambio5ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.Cambio5ToolStripMenuItem.Text = "Cambio 5"
         '
         'ganadorLabelP5
